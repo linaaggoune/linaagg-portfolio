@@ -1,0 +1,72 @@
+{
+  "index": {
+    "welcome": "Welcome",
+    "aboutme": "About Me",
+    "skills": "Skills",
+    "I'm": "I am",
+    "Lyna": "Lyna",
+    "a": "a",
+    "frontend": "frontend",
+    "developer": "developer",
+    "Passionate": "Passionate about web development",
+    "Àpropos": "About",
+    "Maformation": "My Education",
+    "GitHub": "GitHub"
+  },
+  "skills": {
+    "front": "frontend",
+    "back": "backend",
+    "OutilsDev": "Development Tools",
+    "Systemdexp": "Operating System"
+  },
+  "footer": {
+    "creerpar": "Created by",
+    "lynaaggoun": "Lyna Aggoun",
+    "tousdroitsreserves": "All rights reserved."
+  },
+  "contact": {
+    "me_contacter": "Contact Me",
+    "Nom": "Name",
+    "requiredMsg": "Please fill in this field",
+    "Email": "Email",
+    "emailerrorMessage": "Please enter a valid email address",
+    "Société": "Company",
+    "Message": "Message",
+    "messagePlaceholder": "Enter your message...",
+    "Envoyer": "Send",
+    "successMessage": "Your message has been sent successfully"
+  },
+  "project": {
+    "mes_project": "My Projects",
+    "Portfolio": "Portfolio",
+    "Technologies": "Technologies:",
+    "details": "details",
+    "MonRepo": "My repository",
+    "Fermer": "Close",
+    "PortfolioDescriptionP1": "Developed with React and TypeScript, using i18n for language switching while leveraging my knowledge.",
+    "PortfolioDescriptionP2": "Also implemented a workflow using GitHub Actions for continuous integration and deployment.",
+    "PortfolioDescriptionP3": "Used HeroUi for the project's user interface.",
+    "Facemeet": "Facemeet",
+    "FacemeetDescriptionP1": "FaceMeet is a facial recognition web application initially designed for Icosnet to track employee attendance in meetings.",
+    "FacemeetDescriptionP2": "Utilized the latest facial detection models from 2023 (YOLOV7 & YOLOV8), DeepFace for facial recognition, and anti-spoofing for security.",
+    "FacemeetDescriptionP3": "Used AI Themes for the project's user interface.",
+    "MegaERPpending": "MegaERP (In Progress)",
+    "MegaERPDescriptionP1": "Developed with React and TypeScript, using i18n for language switching and Ant Design for the user interface.",
+    "MegaERPDescriptionP2": "A management application providing solutions in accounting, finance, business management, payroll, human resources management, and maintenance management."
+  },
+  "about": {
+    "title": "From Academic Learning to Real-World Expertise...",
+    "paragraph1": "After five years of study at the École Supérieure d’Informatique, where I gained strong foundations in application design and development, I quickly transitioned into the professional world. For the past two years, I have been working in web development, refining my skills in React, TypeScript, and Ant Design.",
+    "paragraph2": "Every project is an opportunity for me to combine technical precision and creativity, designing intuitive and high-performance interfaces. My approach focuses on creating solutions tailored to users' needs while optimizing experience and usability.",
+    "paragraph3": "Passionate about development and technical challenges, I am constantly seeking learning and improvement. My goal is to create innovative and efficient applications, bringing added value to every project I work on.",
+    "mes_projets": "My Projects",
+    "mes_skills": "My Skills"
+  },
+  "navbar": {
+    "Accueil": "Home",
+    "Àpropos": "About",
+    "Skills": "Skills",
+    "Mes projets": "My Projects",
+    "Contact": "Contact"
+  }
+}

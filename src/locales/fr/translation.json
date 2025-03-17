@@ -1,0 +1,79 @@
+{
+  "index": {
+    "welcome": "Bienvenue",
+    "aboutme": "À propos de moi",
+    "skills": "Compétences",
+    "I'm": "Je suis",
+    "Lyna": "Lyna",
+    "a": "une",
+    "frontend": "développeuse",
+    "developer": "frontend",
+    "Passionate": "Passionné par le développement web" ,
+    "Àpropos": "À propos",
+    "Maformation": "Ma formation",
+    "GitHub": "GitHub"
+  },
+  "skills":{
+    "front":"frontend ",
+    "back":"backend",
+    "OutilsDev":"Outils de développement",
+    "Systemdexp":"Système d'exploitation"
+  },
+ "footer": {
+  "creerpar": "Créé par",
+  "lynaaggoun": "Lyna Aggoun",
+  "tousdroitsreserves": "Tous droits réservés."
+}
+,
+  "contact": {
+  "me_contacter": "Me contacter",
+  "Nom": "Nom",
+  "requiredMsg":"Veuillez remplir ce champ",
+  "Email": "Email",
+  "emailerrorMessage": "Merci de noter une adresse mail valide",
+  "Société": "Société",
+  "Message": "Message",
+  "messagePlaceholder": "Entrez votre message...",
+  "Envoyer": "Envoyer",
+  "successMessage": "Votre message a été envoyé avec succès"
+}
+,
+    "project": {
+      "mes_project": "Mes Projets",
+      "Portfolio": "Portfolio",
+      "Technologies": "Technologies :",
+      "details": "détails",
+      "MonRepo": "Mon repo",
+      "Fermer": "Fermer",
+      "PortfolioDescriptionP1": "Réalisé avec React et TypeScript, i18n pour switch langues en mettant à profit mes connaissances.",
+      "PortfolioDescriptionP2": "Mise en place également d'un workflow à l'aide de GitHub Actions afin de bénéficier d'une intégration et d'un déploiement continus.",
+      "PortfolioDescriptionP3": "Utilisation de HeroUi pour interface utilisateur du projet.",
+      "Facemeet": "Facemeet",
+      "FacemeetDescriptionP1": "FaceMeet est une application web de reconnaissance faciale conçue initialement pour les besoins de la société Icosnet afin de suivre la présence de leurs employés aux réunions.",
+      "FacemeetDescriptionP2": "Utilisation des derniers modèles de détection faciale de 2023 (YOLOV7 & YOLOV8), DeepFace pour la reconnaissance faciale, et l’anti-spoofing pour la sécurité.",
+      "FacemeetDescriptionP3": "Utilisation de AI Themes pour l'interface utilisateur du projet.",
+      "MegaERPpending": "MegaERP (En cours)",
+      "MegaERPDescriptionP1": "Réalisé avec React et TypeScript, i18n pour switch langues et Ant Design pour l'interface utilisateur.",
+      "MegaERPDescriptionP2": "Application de gestion proposant des solutions en comptabilité, finance, gestion commerciale, paie, gestion des ressources humaines et gestion de la maintenance."
+    },
+  
+  
+  "about": {
+      "title": "De l’apprentissage académique à l’expertise terrain…",
+      "paragraph1": "Après cinq années d’études à l’École Supérieure d’Informatique, où j’ai acquis de solides bases en conception et développement d’applications, j’ai rapidement intégré le monde professionnel. Depuis maintenant deux ans, j’évolue dans le domaine du développement web, perfectionnant mes compétences en React, TypeScript et Ant Design.",
+      "paragraph2": "Chaque projet est pour moi une opportunité d’allier rigueur technique et créativité, en concevant des interfaces intuitives et performantes. Travailler sur des solutions adaptées aux besoins des utilisateurs tout en optimisant l’expérience et l’ergonomie est au cœur de mon approche.",
+      "paragraph3": "Passionné par le développement et les défis techniques, je suis constamment en quête d’apprentissage et d’amélioration. Mon objectif est de créer des applications innovantes et efficaces, en apportant une valeur ajoutée à chaque projet sur lequel je travaille.",
+      "mes_projets": "Mes projets",
+      "mes_skills": "Mes compétences"
+    
+    
+
+  },
+  "navbar": {
+    "Accueil": "Accueil",
+    "Àpropos": "À propos",
+    "Skills": "Compétences",
+    "Mes_projets": "Mes projets",
+    "Contact": "Contact"
+  }
+  }
